@@ -36,10 +36,15 @@ Venho desenvolvendo projetos voltados a:
 ## 📊 O que eu faço com dados
 
 ✔ Análise de dados operacionais
+
 ✔ Criação de dashboards para monitoramento de KPIs
+
 ✔ Tratamento e preparação de bases de dados
+
 ✔ Identificação de padrões e oportunidades de melhoria
+
 ✔ Transformação de dados em insights estratégicos
+
 
 ---
 
