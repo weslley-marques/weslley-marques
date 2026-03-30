@@ -1,101 +1,103 @@
 # 👋 Olá, eu sou o Weslley Marques
 
-📊 Data Analytics | Business Intelligence
-🎓 Graduando em Sistemas de Informação
-📍 São Paulo, Brasil
+📊 Data Analytics | Business Intelligence  
+🎓 Graduando em Sistemas de Informação  
+📍 São Paulo, Brasil  
 
-Sou apaixonado por análise de dados e por transformar informações em insights estratégicos que apoiem a tomada de decisão.
+Sou analista de dados com foco em **tomada de decisão orientada a dados**, atuando na análise de indicadores, identificação de oportunidades e geração de insights que impactam diretamente o negócio.
 
-Atualmente atuo com análise de dados operacionais, criação de dashboards e monitoramento de indicadores, sempre com foco em gerar impacto real no negócio.
-
----
-
-## 🚀 Sobre mim
-
-Tenho experiência prática com análise de dados, desde a preparação e tratamento das informações até a construção de dashboards e geração de insights.
-
-Venho desenvolvendo projetos voltados a:
-
-* 📊 Análise de comportamento de clientes
-* 📈 Experimentos A/B (data-driven decisions)
-* 📉 Retenção e performance de negócios
-* 📊 Visualização de dados para tomada de decisão
+Atualmente trabalho com dados operacionais, analisando grandes volumes de informações para apoiar áreas como planejamento, estoque e operações.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Sobre mim
 
-* SQL (MySQL)
-* Power BI
-* Excel Avançado
-* Python (Pandas)
-* Microsoft AX (ERP)
+Tenho experiência prática em todo o ciclo de dados:
 
----
+- Extração e tratamento de dados (SQL e Python)  
+- Construção de dashboards (Power BI)  
+- Análise de KPIs e performance de negócio  
+- Geração de insights acionáveis  
 
-## 📊 O que eu faço com dados
+Meus projetos são focados em resolver problemas reais de negócio, como:
 
-✔ Análise de dados operacionais
-
-✔ Criação de dashboards para monitoramento de KPIs
-
-✔ Tratamento e preparação de bases de dados
-
-✔ Identificação de padrões e oportunidades de melhoria
-
-✔ Transformação de dados em insights estratégicos
-
+- 📊 Otimização de conversão (A/B Test)  
+- 📈 Retenção de clientes e crescimento  
+- 📉 Identificação de gargalos operacionais  
+- 📊 Monitoramento de indicadores estratégicos  
 
 ---
 
-## 🔥 Projetos em Destaque
+##  Tecnologias e Ferramentas
 
-### 📊 A/B Test de Conversão
-
-Análise de experimento A/B identificando aumento de **+66,5% na taxa de conversão**, com foco em tomada de decisão baseada em dados.
-
-[Ver projeto](https://github.com/weslley-marques/ab-test-conversao-campanhas)
-
----
-
-### 📈 Análise de Retenção de Clientes
-
-Estudo de comportamento de clientes com foco em recorrência e identificação de oportunidades de crescimento.
-
-[Ver projeto](https://github.com/weslley-marques/customer-retention-analysis-ecommerce)
+- SQL (MySQL)  
+- Power BI  
+- Excel Avançado  
+- Python (Pandas)  
+- Microsoft AX (ERP)  
 
 ---
 
-## 📚 Atualmente estudando
+##  O que eu faço com dados
 
-* Data Analytics
-* SQL avançado
-* Python para análise de dados
-* Visualização de dados
+✔ Analiso grandes volumes de dados para identificar padrões  
 
----
+✔ Construo dashboards para acompanhamento de KPIs  
 
-## 🧠 Diferenciais
+✔ Transformo dados em insights acionáveis  
 
-* ✔ Pensamento analítico voltado a negócio
-* ✔ Capacidade de transformar dados em decisões
-* ✔ Experiência prática com SQL e Power BI
-* ✔ Comunicação clara com dados
+✔ Apoio decisões de negócio com base em dados  
+
+✔ Identifico oportunidades de melhoria e otimização  
 
 ---
 
-## 🎯 Objetivo
+##  Projetos em Destaque
 
-Busco oportunidades como Analista de Dados / BI, onde eu possa aplicar análise de dados para gerar impacto real no negócio.
+### A/B Test de Conversão
+
+Análise de experimento A/B com aumento de **+66,5% na taxa de conversão**, demonstrando impacto direto na performance de campanhas.
+
+🔗 https://github.com/weslley-marques/ab-test-conversao-campanhas  
+
+---
+
+###  Análise de Retenção de Clientes
+
+Identificação de baixa retenção (**97% dos clientes realizam apenas uma compra**), evidenciando oportunidade de crescimento via estratégias de recompra.
+
+🔗 https://github.com/weslley-marques/customer-retention-analysis-ecommerce  
+
+---
+
+##  Diferenciais
+
+- ✔ Pensamento analítico orientado a negócio  
+- ✔ Capacidade de transformar dados em decisão  
+- ✔ Experiência prática com dados reais  
+- ✔ Comunicação clara e estratégica  
+
+---
+
+##  Atualmente estudando
+
+- SQL avançado  
+- Python para análise de dados  
+- Técnicas de experimentação (A/B Test)  
+- Análise de retenção e comportamento do cliente  
+
+---
+
+##  Objetivo
+
+Busco oportunidades como Analista de Dados / BI, atuando na geração de insights e na otimização de KPIs para apoiar decisões estratégicas.
 
 ---
 
 ## 📫 Contato
 
-🔗 LinkedIn
-[www.linkedin.com/in/weslley-marques-86a28937b](http://www.linkedin.com/in/weslley-marques-86a28937b)
+🔗 LinkedIn  
+http://www.linkedin.com/in/weslley-marques-86a28937b  
 
-📧 Email
-[weslleymarques303@gmail.com](mailto:weslleymarques303@gmail.com)
-
----
+📧 Email  
+weslleymarques303@gmail.com  
