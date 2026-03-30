@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou o Weslley Marques
 
+Transformando dados em decisões estratégicas
+
 📊 Data Analytics | Business Intelligence
 🎓 Graduando em Sistemas de Informação
 📍 São Paulo, Brasil
