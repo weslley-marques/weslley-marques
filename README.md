@@ -54,7 +54,7 @@ Venho desenvolvendo projetos voltados a:
 
 Análise de experimento A/B identificando aumento de **+66,5% na taxa de conversão**, com foco em tomada de decisão baseada em dados.
 
-👉 https://github.com/weslley-marques/ab-test-conversao-campanhas
+[Ver projeto](https://github.com/weslley-marques/ab-test-conversao-campanhas)
 
 ---
 
@@ -62,7 +62,7 @@ Análise de experimento A/B identificando aumento de **+66,5% na taxa de convers
 
 Estudo de comportamento de clientes com foco em recorrência e identificação de oportunidades de crescimento.
 
-👉https://github.com/weslley-marques/customer-retention-analysis-ecommerce
+[Ver projeto](https://github.com/weslley-marques/customer-retention-analysis-ecommerce)
 
 ---
 
